@@ -1,0 +1,3 @@
+*.py[a-z]
+*.sw[a-z]
+.DS_Store
